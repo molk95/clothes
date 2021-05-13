@@ -2,48 +2,42 @@ import React from "react";
 import "./homepage.styles.scss"
 
 const HomePage = () => (
-    <div className="homepage">
-        <div className="directory-menu">
-            <div className="menu-item">
-                <div className="content">
-                    <h1 className="title">CHAPEAU</h1>
-                    <span className="subtitle">ACHETER</span>
-                </div>
-            </div>
+    <div className='homepage'>
+    <h1>Welcome to my Homepage</h1>
+    <div className='directory-menu'>
+    <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>CHAPEAUS</div>
+          <span className='subtitle'>ACHETER</span>
         </div>
-        <div className="directory-menu">
-            <div className="menu-item">
-                <div className="content">
-                    <h1 className="title">JACKETS</h1>
-                    <span className="subtitle">ACHETER</span>
-                </div>
-            </div>
+      </div>
+    <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>JACKETS</div>
+          <span className='subtitle'>ACHETER</span>
         </div>
-        <div className="directory-menu">
-            <div className="menu-item">
-                <div className="content">
-                    <h1 className="title">CHAUSURES</h1>
-                    <span className="subtitle">ACHETER</span>
-                </div>
-            </div>
+      </div>
+    <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>CHAUSSURES</div>
+          <span className='subtitle'>ACHETER</span>
         </div>
-        <div className="directory-menu">
-            <div className="menu-item">
-                <div className="content">
-                    <h1 className="title">FEMMES</h1>
-                    <span className="subtitle">ACHETER</span>
-                </div>
-            </div>
+      </div>
+    <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>FEMMES</div>
+          <span className='subtitle'>ACHETER</span>
         </div>
-        <div className="directory-menu">
-            <div className="menu-item">
-                <div className="content">
-                    <h1 className="title">HOMMES</h1>
-                    <span className="subtitle">ACHETER</span>
-                </div>
-            </div>
+      </div>
+    <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>HOMMES</div>
+          <span className='subtitle'>ACHETER</span>
         </div>
-    </div>
+      </div>
+     
+   </div>
+   </div>
 
 )
 
