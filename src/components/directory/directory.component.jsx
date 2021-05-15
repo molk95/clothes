@@ -25,7 +25,7 @@ class Directory extends React.Component {
         },
         {
             title: 'Femmes',
-            imageUrl: 'https://images.unsplash.com/photo-1565127453543-ad97bbbba30d?ixid=MnwxMjA3fDB8 MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',
+            imageUrl: 'https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
             size: 'large',
 
             id: 4,
